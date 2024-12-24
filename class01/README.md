@@ -1,6 +1,6 @@
 ## 500 Class 01: 2025-01-16
 
-Zoom class 1 will take place on Thursday 2025-01-16 from 10-11 AM. 
+Class 01 will take place over Zoom on Thursday 2025-01-16 from **10-11 AM** Eastern Time. 
 - Zoom information will be made available to all registered students shortly after January 6.
 
 ## What should I do to prepare BEFORE the first class session?
