@@ -4,7 +4,7 @@ Class 1 is divided into two parts.
 
 ### Part 1 is a recorded lecture you should watch before 10 AM on Thursday 2025-01-16.
 
-- Slides for the recorded lecture 1 are [available in PDF](https://github.com/THOMASELOVE/500-slides-2025/blob/main/500_slides01r.pdf) and [as Quarto (.qmd) code](https://github.com/THOMASELOVE/500-slides-2025/blob/main/500_slides01r.qmd).
+- Slides for the recorded lecture 1 are [available in PDF](https://github.com/THOMASELOVE/500-slides-2025/blob/main/500_slides01r.pdf) (click on the down arrow to download) and [as Quarto (.qmd) code](https://github.com/THOMASELOVE/500-slides-2025/blob/main/500_slides01r.qmd).
 - A link to the recording will be posted by Monday 2025-01-13.
 
 ### Part 2 is a Zoom meeting on Thursday 2025-01-16 from **10-11 AM** Eastern Time. 
