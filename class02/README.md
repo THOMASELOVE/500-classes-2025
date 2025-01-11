@@ -47,4 +47,4 @@ Other articles I refer to in the slides, if you're interested in tracking down f
 3. It's not too early to start thinking about:
     - developing a [project proposal](https://thomaselove.github.io/500-2025/proj500.html) and identifying an available data set (initial draft due 2025-02-13)
     - claiming an [Observational Studies In Action](https://thomaselove.github.io/500-2025/osia.html) article (due 2025-02-19)
-4. Watch Lecture 3 when it becomes available.
+4. Watch recorded Lecture 3 when it becomes available.
