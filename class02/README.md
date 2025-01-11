@@ -7,7 +7,7 @@ Class 2 is divided into two parts.
 - Slides for the recorded lecture 2 are [available in PDF](https://github.com/THOMASELOVE/500-slides-2025/blob/main/500_slides02r.pdf) (click on the down arrow to download) and [as Quarto (.qmd) code](https://github.com/THOMASELOVE/500-slides-2025/blob/main/500_slides02r.qmd).
 - A link to the recording will be posted by Friday 2025-01-17.
 
-### Part 2 is a Zoom meeting on Thursday 2025-01-16 from **10-11 AM** Eastern Time. 
+### Part 2 is a Zoom meeting on Thursday 2025-01-23 from **10-11 AM** Eastern Time. 
 
 - Zoom information has been sent (via email to your CWRU account) to all registered students.
 - Slides for this Zoom meeting are [available in PDF](https://github.com/THOMASELOVE/500-slides-2025/blob/main/500_slides02z.pdf) and [as Quarto (.qmd) code](https://github.com/THOMASELOVE/500-slides-2025/blob/main/500_slides02z.qmd).
