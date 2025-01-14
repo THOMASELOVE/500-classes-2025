@@ -5,13 +5,13 @@ Class 1 is divided into two parts.
 ### Part 1 is a recorded lecture you should watch before 10 AM on Thursday 2025-01-16.
 
 - Slides for the recorded lecture 1 are [available in PDF](https://github.com/THOMASELOVE/500-slides-2025/blob/main/500_slides01r.pdf) (click on the down arrow to download) and [as Quarto (.qmd) code](https://github.com/THOMASELOVE/500-slides-2025/blob/main/500_slides01r.qmd).
-- A link to the recording will be posted as soon as possible.
+- A link to view (and/or download) the recording is **now available** on our Shared Google Drive in the document called "Zoom recordings for 500 Class Lectures - Spring 2025".
 
 ### Part 2 is a Zoom meeting on Thursday 2025-01-16 from **10-11 AM** Eastern Time. 
 
-- Zoom information has been sent (via email to your CWRU account) to all registered students.
+- Zoom information for our first meeting was sent (via email to your CWRU account) to all registered students, and is also posted [to Canvas](https://canvas.case.edu/).
 - Slides for the first Zoom meeting are [available in PDF](https://github.com/THOMASELOVE/500-slides-2025/blob/main/500_slides01z.pdf) and [as Quarto (.qmd) code](https://github.com/THOMASELOVE/500-slides-2025/blob/main/500_slides01z.qmd).
-- A link to the recording will be posted [to Canvas](https://canvas.case.edu/) within 24 hours of the meeting.
+- A link to the Zoom meeting recording will be posted [to Canvas](https://canvas.case.edu/) within 24 hours of the meeting.
 
 ## What should I do to prepare BEFORE the first class session?
 
