@@ -28,7 +28,7 @@ Class 3 is divided into two parts.
 
 ## Announcements
 
-1. The [Lab 1](https://thomaselove.github.io/500-2025/lab1.html) answer sketch is posted to our Shared Google Drive. Thanks to everyone for submitting it on time. I really appreciate that. Grades and a little bit of feedback are going up on Canvas, as I finish reviewing each one.
+1. The [Lab 1](https://thomaselove.github.io/500-2025/lab1.html) answer sketch is posted to our Shared Google Drive. Thanks to everyone for submitting it on time. I really appreciate that. Grades and a little bit of feedback are on Canvas now.
     - You want to be using R version 4.4.2. Our [Software page](https://thomaselove.github.io/500-2025/software.html) has more instructions.
     - I didn't load [the `easystats` framework](https://easystats.github.io/easystats/) in my sketch for Lab 1. It's a perfectly reasonable thing to do, though, and if you're unfamiliar with it, it's worth learning about. The [431 Book](https://thomaselove.github.io/431-book/) has a lot of details.
 
