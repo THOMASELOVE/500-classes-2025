@@ -23,8 +23,13 @@ Class 3 is divided into two parts.
 4. Schematics for other Propensity Methods in “simple” studies
 5. An Introduction to The SUPPORT / Right Heart Catheterization Study
 6. Lab 1 (How did it go?)
-    - The Answer Sketch for Lab 1 will be posted to our Shared Google Drive once everyone has turned it in.
+    - The Answer Sketch for Lab 1 is now available on our Shared Google Drive.
 7. Rosenbaum Chapter 4
+
+## Announcements
+
+1. The [Lab 1](https://thomaselove.github.io/500-2025/lab1.html) answer sketch is posted to our Shared Google Drive. Thanks to everyone for submitting it on time. I really appreciate that.
+
 
 ## References from Today's Class
 
@@ -57,10 +62,10 @@ Other references in the slides, if you're interested in tracking down further de
 
 ## What Should I be working on?
 
-1. Readings for Class 4: Skim Austin and Mamdani (2006), Normand (2001) and D'Agostino, Jr. (1998) all on our [Sources](https://github.com/THOMASELOVE/500-sources) page.
-2. Read Chapter 5 of Rosenbaum *Causal Inference*.
-3. It's definitely not too early to start thinking about:
+1. Watch recorded Lecture 4. The link is posted to our Shared Drive now.
+2. The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy) is be the focus of the recorded Class 04.
+3. We'll spend some time on Normand (2001) in the Zoom session for Class 4, so it would help to have looked at that in advance of class. It would also be nice if you skimmed  Austin and Mamdani (2006), and D'Agostino, Jr. (1998), which we'll probably discuss in Class 5. All three papers are found on our [Sources](https://github.com/THOMASELOVE/500-sources) page. 
+4. Read Chapter 5 of Rosenbaum *Causal Inference*.
+5. It's definitely not too early to start thinking about:
     - developing a [project proposal](https://thomaselove.github.io/500-2025/proj500.html) and identifying an available data set (initial draft due 2025-02-13)
     - claiming an [Observational Studies In Action](https://thomaselove.github.io/500-2025/osia.html) article (due 2025-02-19)
-4. Watch recorded Lecture 4 when it becomes available.
-5. The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy) and the [lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) will be the focus of Class 04, next week, but you are encouraged to peruse them in advance.
