@@ -13,7 +13,7 @@ Student
 Sarah Albalawi
 Kelly Bowen
 Logan Harper
-Catherine Hassett
+Katie Hassett
 Dana Jian
 Anika Krishna
 Trisha Lal
