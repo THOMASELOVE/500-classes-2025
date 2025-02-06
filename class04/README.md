@@ -20,4 +20,7 @@ Class 4 is divided into two parts.
 
 ## Announcements
 
-To come.
+1. Claims for Observational Studies in Action [are posted here](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia). Be sure to get yours submitted by the deadline, which is Wednesday 2025-02-19 at 9 AM.
+2. Project Proposal Draft 1 is due [to Canvas](https://canvas.case.edu/) by 9 AM next Thursday 2025-02-13.
+3. I should have the recording for Class 5 posted by Friday afternoon 2025-02-07. The slides associated with that recording are already posted.
+4. I adjusted the [Course Calendar](https://thomaselove.github.io/500-2025/calendar.html) slightly to better reflect what we'll be doing in the next few classes. No assignments have changed, but some of the reading has been adjusted.
