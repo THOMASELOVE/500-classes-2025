@@ -21,8 +21,8 @@ The agenda for the recording:
 
 - Designing Observational Studies (Rubin, 2001)
 - Rubin's Rules
-  - in the `toy`, `lindner` and `dm2200` examples
-- Austin and Mamdani (2006) Example
+  - in the `toy`, `lindner` and `dm2200` [examples](https://thomaselove.github.io/500-examples/)
+- Austin and Mamdani (2006) Case Study
 
 Agenda for today's Zoom session:
 
