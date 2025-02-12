@@ -35,6 +35,11 @@ Today's Zoom has the following agenda:
 - Reviewing the Project Proposals (due 9 AM Thursday 2025-02-13)
 - Discussing Rosenbaum, Causal Inference, Chapter 6 (Quasi-Experimental Designs)
 
+## Announcements
+
+1. The `rhc` example (our final big R example) is now available on [the Examples page](https://thomaselove.github.io/500-examples/#the-rhc-example). We will discuss this example in some detail in Class 07.
+2. I will share a few quick things about the first drafts of the Project Proposals today (they were due at 9 AM) if we can. You'll be talking about your proposal (instead of me) after you submit the second draft.
+
 ## Reminders
 
 1. Submit your [OSIA selection](https://thomaselove.github.io/500-2025/osia.html) to Dr. Love via email by 9 AM on **Wednesday** 2025-02-19.
