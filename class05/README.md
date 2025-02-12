@@ -15,6 +15,29 @@ Class 5 is divided into two parts.
 
 ----
 
-## Announcements
+## Agenda
 
-To come.
+The recording had the following agenda:
+
+- The `lindner` [example](https://thomaselove.github.io/500-examples/)
+- Matching with (or without) a Propensity Score
+  - Matching with and without replacement
+  - Greedy vs. Caliper vs. Optimal Matches
+- The `dm2200` [example](https://thomaselove.github.io/500-examples/): Executing Matching in R
+  - Using `Matching` vs. `MatchIt`
+
+Today's Zoom has the following agenda:
+
+- Feinstein's Model for Research Architecture
+    - 7 Key Aspects for Making Fair Judgments about Causation
+- A Published Example of My Early Propensity Score Work
+    - M.I. Ahmed et al. [Outcomes in younger and older adults with chronic advanced systolic heart failure: A propensity-matched study](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Ahmed%20et%20al%202012%20Int%20J%20Card.pdf) *International Journal of Cardiology* 154 (2012) 128–133.
+- Reviewing the Project Proposals (due 9 AM Thursday 2025-02-13)
+- Discussing Rosenbaum, Causal Inference, Chapter 6 (Quasi-Experimental Designs)
+
+## Reminders
+
+1. Submit your [OSIA selection](https://thomaselove.github.io/500-2025/osia.html) to Dr. Love via email by 9 AM on **Wednesday** 2025-02-19.
+2. [Lab 2](https://thomaselove.github.io/500-2025/lab2.html) is due to Canvas by 9 AM on Thursday 2025-02-20.
+3. For Class 6, read Rubin 2001, and skim Austin and Mamdani 2006, Kubo 2020 and Hansen 2004. All are on our [Sources page](https://github.com/THOMASELOVE/500-sources).
+ 
