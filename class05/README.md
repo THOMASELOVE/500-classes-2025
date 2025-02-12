@@ -39,6 +39,7 @@ Today's Zoom has the following agenda:
 
 1. The `rhc` example (our final big R example) is now available on [the Examples page](https://thomaselove.github.io/500-examples/#the-rhc-example). We will discuss this example in some detail in Class 07.
 2. I will share a few quick things about the first drafts of the Project Proposals today (they were due at 9 AM) if I can. You'll be talking about your proposal (instead of me) after you submit the second draft.
+3. OSIA claims to date [are found here](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia).
 
 ## Reminders
 
