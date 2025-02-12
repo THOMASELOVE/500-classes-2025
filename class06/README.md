@@ -33,7 +33,7 @@ Agenda for today's Zoom session:
 
 ## Reminders
 
-1. Draft 2 of your Project Proposal is due at 9 AM next Thursday 2025-02-27.
+1. Draft 2 of your [Project Proposal](https://thomaselove.github.io/500-2025/proj500.html#the-project-proposal) is due at 9 AM next Thursday 2025-02-27.
     - Warning: Be prepared. In the Zoom meeting on 2025-02-27, each of you will give a 2-3 minute talk (no slides) in which you will briefly describe the title, population, outcome, treatment and covariates included in your second Project Proposal draft. Be prepared to specify where the data come from, and how you sampled it (or plan to sample it), as well as any collaborators you are working with.
 2. Read Connors (1996) and skim D'Agostino Jr (1998), each found on our [Sources page](https://github.com/THOMASELOVE/500-sources).
 
