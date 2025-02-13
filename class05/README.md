@@ -44,6 +44,8 @@ Today's Zoom has the following agenda:
     - You'll be talking about your proposal (instead of me) after you submit the second draft.
 3. OSIA claims to date [are found here](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia).
 4. The link to watch or download the pre-recorded lecture for Class 6 is now available on our Shared Drive.
+5. I'll be largely unavailable between 3 PM Thursday and 9 AM Monday, as Friday is my birthday and I'm taking the weekend off.
+    - Yes, that's right. Valentine's Day, and my last name. It's cuter when you're an adult, I promise you.
 
 ## Reminders
 
