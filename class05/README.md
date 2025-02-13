@@ -39,10 +39,11 @@ Today's Zoom has the following agenda:
 
 1. The `rhc` example (our final big R example) is now available on [the Examples page](https://thomaselove.github.io/500-examples/#the-rhc-example). We will discuss this example in some detail in Class 07.
 2. I will share a few quick things about the first drafts of the [Project](https://thomaselove.github.io/500-2025/proj500.html).
-    - A summary of each project is now in the Project Proposals Draft 1 for 500 Google Sheet on our Shared Drive. Your grade (9 or 10) is posted to Canvas.
+    - A summary of each project is now in the **Project Proposals Draft 1 for 500** Google Sheet on our Shared Drive. Your grade (9 or 10) is posted to Canvas.
     - All of those I've seen are interesting to me, and should work well for the project.
     - You'll be talking about your proposal (instead of me) after you submit the second draft.
 3. OSIA claims to date [are found here](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia).
+4. The link to watch or download the pre-recorded lecture for Class 6 is now available on our Shared Drive.
 
 ## Reminders
 
