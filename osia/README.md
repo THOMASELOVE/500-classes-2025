@@ -1,6 +1,7 @@
 # Observational Studies in Action Claims
 
-All claims are due no later than the [Calendar](https://thomaselove.github.io/500-2025/calendar.html) says.
+- All claims are due no later than noon Wednesday 2025-02-19.
+- If your OSIA article includes an appendix, or other supplementary materials that I haven't included in the version online, please send those to me today!
 
 Student | Paper
 :---------------------: | :----------------------------------------------------------------------------------------------------
