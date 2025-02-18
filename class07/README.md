@@ -17,4 +17,9 @@ Class 7 is divided into two parts.
 
 ## Announcements
 
-To come.
+1. To come.
+
+## Sensitivity Spreadsheet Information is in our Shared Drive
+
+- The Excel sheet (developed in 2008) is available in our Shared Drive in the Sensitivity Spreadsheet folder.
+- The PDF description of what the spreadsheet does (with examples) is also in our Shared Drive in the Sensitivity Spreadsheet folder.
