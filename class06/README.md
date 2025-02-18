@@ -40,4 +40,4 @@ Agenda for today's Zoom session:
     - We are willing to entertain projects with either one or two outcomes, and with one binary exposure (A vs. B, not A vs. B vs. C). If you suggested more than two outcomes or more than one split into exposure groups in your initial draft, we want to see a final decision on these issues.
     - We want to see a more comprehensive list of covariates you will include in your propensity score model, in particular, and we want to see some logic behind why these are covariates - things knowable and measured before the decision to receive the exposure happens, and (definitely) which pre-date the outcome.
 2. Read Connors (1996) and skim D'Agostino Jr (1998), each found on our [Sources page](https://github.com/THOMASELOVE/500-sources).
-3. In Class 7, we'll be talking about sensitivity analysis. A relevant spreadsheet and associated documentation are now available on our Shared Drive.
+3. In Class 7, we'll be talking about sensitivity analysis. A relevant spreadsheet and associated documentation are now available on our Shared Drive. The recording for Class 7 is now available, with the link in the usual document on our Shared Drive.
