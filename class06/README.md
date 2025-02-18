@@ -27,7 +27,7 @@ The agenda for the recording:
 Agenda for today's Zoom session:
 
 - How did Lab 2 go?
-- OSIA Selections
+- [OSIA Selections](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia)
 - Kubo et al. (2020) as an example for OSIA
 - Some Extensions to Propensity Matching and Hansen (2004)
 
