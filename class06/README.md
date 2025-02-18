@@ -19,10 +19,10 @@ Class 6 is divided into two parts.
 
 The agenda for the recording:
 
-- Designing Observational Studies (Rubin, 2001)
+- Designing Observational Studies ([Rubin, 2001](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Rubin%202001%20Tobacco%20Litigation%20article.pdf))
 - Rubin's Rules
   - in the `toy`, `lindner` and `dm2200` [examples](https://thomaselove.github.io/500-examples/)
-- Austin and Mamdani (2006) Case Study
+- [Austin and Mamdani (2006)](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Austin%20and%20Mamdani%202006%20case%20study.pdf) Case Study
 
 Agenda for today's Zoom session:
 
@@ -30,6 +30,11 @@ Agenda for today's Zoom session:
 - [OSIA Selections](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia)
 - Kubo et al. (2020) as an example for OSIA
 - Some Extensions to Propensity Matching and Hansen (2004)
+
+## Announcements
+
+1. **By class time**, the Lab 2 Answer Sketch should be posted to our Shared Drive.
+2. **By class time**, all of the OSIA articles should be [available here](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia).
 
 ## Reminders
 
