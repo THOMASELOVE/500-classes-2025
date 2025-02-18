@@ -3,6 +3,7 @@
 - All claims are due via email to Dr. Love no later than 9 AM Wednesday 2025-02-19.
 - Once all claims are in, we'll identify second readers and select presentation dates.
 - If your OSIA article includes an appendix, or other supplementary materials that I haven't included in the version online, please send those to me today!
+- PDF files are also available on our Shared Drive.
 
 Student | Paper
 :---------------------: | :----------------------------------------------------------------------------------------------------
