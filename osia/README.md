@@ -7,7 +7,7 @@
 
 First Reader | Second Reader | Paper
 :---------------------: | :------------: |  :----------------------------------------------------------------------------------------------------
-Ajay Mahenthiran | To Be Named | Zheng et al. 2024 [The impact of statin use on short-term and long-term mortality in patients with heart failure](pdfs/Zheng_2024.pdf) with **Supplement** *Frontiers in Pharmacology* 15: 1397763. doi:10.3389/fphar.2024.1397763
+Ajay Mahenthiran | To Be Named | Zheng et al. 2024 [The impact of statin use on short-term and long-term mortality in patients with heart failure](pdfs/Zheng_2024.pdf) with [Supplement](pdfs/Zheng_2024_supplement.pdf) *Frontiers in Pharmacology* 15: 1397763. doi:10.3389/fphar.2024.1397763
 Anika Krishna | To Be Named | Li et al. 2020 [A Mobile-Based Intervention for Glycemic Control in Patients With Type 2 Diabetes: Retrospective, Propensity Score-Matched Cohort Study](pdfs/Li_2020.pdf) with [Supplement](pdfs/Li_2020_supplement.pdf) *JMIR Mhealth and UHealth* 8(3): e15390. <http://mhealth.jmir.org/2020/3/e15390/>
 Dana Jian | To Be Named | Zhang et al. 2025 [Sedentary Behavior and Its Association With Psychological Well-Being and Sleep Quality in Adolescents: Evidence from a Propensity Score Analysis](pdfs/Zhang_2025.pdf) with [Supplement](pdfs/Zhang_2025_supplement.pdf) *Psychology Research and Behavior Management* 18: 281-298, doi:10.2147/PRBM.S508382 
 JiaWei Yu | To Be Named | Peng at al. 2021 [Association between loneliness, sleep behavior and quality: A propensity-score-matched case-control study](pdf/Peng_2021.pdf) *Sleep Medicine* 86: 19-24. doi:10.1016/j.sleep.2021.08.008
