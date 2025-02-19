@@ -17,7 +17,7 @@ Sarah Albalawi | To Be Named | Ishimaru et al. 2019 [Association between periope
 Tatchaporn Ongphichetmetha | To Be Named | Prosperini et al. 2018 [Fingolimod vs dimethyl fumarate in multiple sclerosis: A real-world propensity score-matched study](pdfs/Prosperini_2018.pdf) *Neurology* 91:e153-e161. doi:10.1212/WNL.0000000000005772
 Trisha Lal | To Be Named | Mackay et al. 2022 [The impact of cancer treatment on quality of life in patients with pancreatic and periampullary cancer: a propensity score matched analysis](pdfs/Mackay_2022.pdf) with [Supplement](pdfs/Mackay_2022_supplement.pdf) *HPB* 24: 443–451. doi:10.1016/j.hpb.2021.09.003
 
-## No Claim Yet
+## No "Accepted" Claim Yet
 
 Student
 :---------------------: 
