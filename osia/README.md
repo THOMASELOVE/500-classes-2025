@@ -1,7 +1,6 @@
 # Observational Studies in Action Claims
 
-- All claims are due via email to Dr. Love no later than 9 AM Wednesday 2025-02-19.
-- Once all claims are in, we'll identify second readers and select presentation dates.
+- Once all claims are in, we'll identify second readers and select presentation dates through a Google Form Dr. Love will provide.
 - If your OSIA article includes an appendix, or other supplementary materials that I haven't included in the version online, please send those to me today!
 - PDF files are also available on our Shared Drive.
 
@@ -14,14 +13,8 @@ JiaWei Yu | To Be Named | Peng at al. 2021 [Association between loneliness, slee
 Katie Hassett | To Be Named | Beauchat et al. 2025 [Association of early general anesthesia with outcome in adults with status epilepticus: A propensity-matched observational study](pdfs/Beauchat_2025.pdf) *Epilepsia* 66:e7–e13. doi:10.1111/epi.18203
 Kelly Bowen | To Be Named | MacDonald et al. 2022 [Use of the Molecular Adsorbent Recirculating System in Acute Liver Failure: Results of a Multicenter Propensity Score-Matched Study](pdfs/MacDonald_2022.pdf) with [Supplement](pdfs/MacDonald_2022_supplement.pdf) *Crit Care Med* 50(2):286–95. doi: 10.1097/CCM.0000000000005194
 Logan Harper | To Be Named | Hadi et al. 2021 [Outcomes of SARS-CoV-2 infection in patients with pulmonary sarcoidosis: A multicenter retrospective research network study](pdfs/Hadi_2021.pdf) with [Supplement](pdfs/Hadi_2021_supplement.pdf) *Respiratory Medicine* 187: 106538. doi:10.1016/j.rmed.2021.106538
+Olivia Lindberg | To Be Named | Chen and Mallory 2021 [The effect of racial discrimination on mental and physical health: A propensity score weighting approach](pdfs/Chen_and_Mallory_2021.pdf) *Social Science & Medicine* 285: 114308. doi:10.1016/j.socscimed.2021.114308
 Sarah Albalawi | To Be Named | Ishimaru et al. 2019 [Association between perioperative oral care and postoperative pneumonia after cancer resection: conventional versus high-dimensional propensity score matching analysis](pdfs/Ishimaru_2019.pdf) *Clinical Oral Investigations* 23:3581–3588. doi:10.1007/s00784-018-2783-5
 Tatchaporn Ongphichetmetha | To Be Named | Prosperini et al. 2018 [Fingolimod vs dimethyl fumarate in multiple sclerosis: A real-world propensity score-matched study](pdfs/Prosperini_2018.pdf) *Neurology* 91:e153-e161. doi:10.1212/WNL.0000000000005772
 Trisha Lal | To Be Named | Mackay et al. 2022 [The impact of cancer treatment on quality of life in patients with pancreatic and periampullary cancer: a propensity score matched analysis](pdfs/Mackay_2022.pdf) with [Supplement](pdfs/Mackay_2022_supplement.pdf) *HPB* 24: 443–451. doi:10.1016/j.hpb.2021.09.003
-
-## No "Accepted" Claim Yet
-
-Student
-:---------------------: 
-Olivia Lindberg
-
 
