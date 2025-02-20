@@ -34,7 +34,7 @@ Agenda for today's Zoom session:
 
 ## Announcements
 
-1. **By class time**, the Lab 2 Answer Sketch should be posted to our Shared Drive.
+1. The Lab 2 Answer Sketch has been posted to our Shared Drive.
 2. All 11 OSIA articles are [now available here](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia).
     - Visit the [OSIA claims page](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia) and identify three of the ten papers you didn't submit as papers you're potentially interested in serving as "second reader" on. You'll need to specify your top three choices on [this Google Form](https://forms.gle/HkTWtzJnzrzoKjx88), as well as specify any days you'll be out of town and thus unavailable to present during the three Thursdays (March 20, March 27 and April 3) from 9 AM to 11:15 AM when we'll be presenting the OSIA articles. Please complete [this Google Form](https://forms.gle/HkTWtzJnzrzoKjx88) by WEDNESDAY February 26 at 9 AM. Thanks in advance.
 
