@@ -1,6 +1,6 @@
 # Observational Studies in Action Claims
 
-- Once all claims are in, we'll identify second readers and select presentation dates through a Google Form Dr. Love will provide.
+- Once all claims are in, we'll identify second readers and select presentation dates through [this Google Form](https://forms.gle/HkTWtzJnzrzoKjx88), due at 9 AM on Wednesday 2025-02-26.
 - If your OSIA article includes an appendix, or other supplementary materials that I haven't included in the version online, please send those to me today!
 - PDF files are also available on our Shared Drive.
 
