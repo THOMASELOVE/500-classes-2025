@@ -35,8 +35,9 @@ Agenda for today's Zoom session:
 
 ## Announcements
 
-1. Remember to complete and submit [Lab 3](https://thomaselove.github.io/500-2025/lab3.html) to Canvas by 9 AM on 2025-03-06.
-2. For Class 8, read the following:
+1. Complete the [Project Presentation Scheduling Form](https://bit.ly/500-project-schedule-2025) (you'll need to log into Google via CWRU to do so) by 9 AM on **Wednesday** 2025-03-05.
+2. Remember to complete and submit [Lab 3](https://thomaselove.github.io/500-2025/lab3.html) to Canvas by 9 AM on Thursday 2025-03-06.
+3. For Class 8, read the following:
     - Rosenbaum *Causal Inference* through Chapter 7.
     - Read [Whitehouse 2007](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Whitehouse%202007%20WSJ%20Economics%20and%20Autism.pdf), and skim [Landrum and Ayanian 2001](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Landrum%20and%20Ayanian%202001%20Propensity%20Scores%20and%20Instrumental%20Variables.pdf) as well as [Tanenbaum 2017](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Tanenbaum_2017_extra.pdf)
 
