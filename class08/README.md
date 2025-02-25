@@ -32,7 +32,7 @@ Agenda for today's Zoom session:
 - Announcing the Project Presentation Schedule
 - Tanenbaum (2017) [Propensity Matched Analysis of Outcomes and Hospital Charges for Anterior versus Posterior Cervical Fusion for Cervical
 Spondylotic Myelopathy](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Tanenbaum_2017_extra.pdf)
-- Discussion of Rosenbaum **Causal Inference** through Chapter 7
+- Discussion of Rosenbaum **Causal Inference** Chapters 6 (Quasi-Experimental Designs) and 7 (Natural Experiments, Discontinuities, and Instruments)
 
 ## Announcements
 
@@ -45,3 +45,10 @@ Spondylotic Myelopathy](https://github.com/THOMASELOVE/500-sources/blob/main/art
     - Classes 12-14 will neither be broadcast nor recorded, since that causes problems with project presentations. Sorry.
 4. At Class 9, our main activity will be the first few OSIA presentations. We will also discuss Lab 4, Rosenbaum through Chapter 8, and perhaps look at [Elbadawi (2021)](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf) and this [Supplement for Elbadawi 2021](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf).
 
+## Key Ideas from Rosenbaum, Chapter 6 (from postscript)
+
+> Sensitivity analysis addresses small pre-treatment differences that we cannot see, but of course the differences might be large, not small. Perhaps large differences that we cannot see leave behind visible traces that we can see. An invisible mouse may pass unnotices, where an invisible elephant leaves a path of wreckage. Quasi-experimental devices, such as multiple control groups, are tools for discovering large unmeasured pre-treatment differences between treated and control groups when such differences are present.
+
+## Key Ideas from Rosenbaum, Chapter 7 (from postscript)
+
+> Random assignment of treatments is sometimes unethical or infeasible, but bits of randomness enter every life, altering its course. Natural experiments, discontinuities, and instruments are attempts to cull bits of natural randomness for constructive use in an observational study.
