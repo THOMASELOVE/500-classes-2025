@@ -41,6 +41,9 @@ Agenda for today's Zoom session:
     - Rosenbaum *Causal Inference* through Chapter 7.
     - Read [Whitehouse 2007](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Whitehouse%202007%20WSJ%20Economics%20and%20Autism.pdf), and skim [Landrum and Ayanian 2001](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Landrum%20and%20Ayanian%202001%20Propensity%20Scores%20and%20Instrumental%20Variables.pdf) as well as [Tanenbaum 2017](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Tanenbaum_2017_extra.pdf)
     - The pre-recorded lecture for Class 8 is about 28 minutes long. The link is available in the usual space.
+4. Remember that while we do have class next Thursday, we do not have class on the following Thursday 2025-03-13, due to Spring Break.
+    - I will be away and not responding to email from 2025-03-07 through 2025-03-14.
+    - Spring Break is an excellent time to work on your OSIA presentation, and get going on the remaining elements of the Project.
 
 ## Sensitivity Spreadsheet Information is in our Shared Drive
 
