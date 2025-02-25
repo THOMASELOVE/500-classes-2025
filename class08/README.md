@@ -15,6 +15,33 @@ Class 8 is divided into two parts.
 
 ----
 
+## Agenda
+
+The agenda for the recording:
+
+- Instrumental Variables
+    - Whitehouse (2007) [Is an Economist Qualified to Solve Puzzle of Autism?](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Whitehouse%202007%20WSJ%20Economics%20and%20Autism.pdf)
+    - Rosenbaum (2010) [The Design of Observational Studies](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Rosenbaum%20PR%202010%20Design%20of%20Observational%20Studies.pdf)
+    - Posner (2001) [Comparing Standard Regression, Propensity Score Matching, and Instrumental Variables Methods for Determining the Influence of Mammography on Stage of Diagnosis](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Posner%20et%20al%202001%20Comparing%20Methods%20in%20a%20Mammography%20Study.pdf)
+- Comparing Propensity Scores and Instrumental Variables
+    - Landrum and Ayanian (2001) [Causal Effect of Ambulatory Specialty Care on Mortality Following Myocardial Infarction](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Landrum%20and%20Ayanian%202001%20Propensity%20Scores%20and%20Instrumental%20Variables.pdf) 
+
+Agenda for today's Zoom session:
+
+- Lab 3 discussion
+- Announcing the Project Presentation Schedule
+- Tanenbaum (2017) [Propensity Matched Analysis of Outcomes and Hospital Charges for Anterior versus Posterior Cervical Fusion for Cervical
+Spondylotic Myelopathy](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Tanenbaum_2017_extra.pdf)
+- Discussion of Rosenbaum **Causal Inference** through Chapter 7
+
 ## Announcements
 
-To come.
+1. Remember that we do not have class on Thursday 2025-03-13, due to Spring Break.
+    - I will be away and not responding to email from 2025-03-07 through 2025-03-14.
+    - Spring Break is an excellent time to work on your OSIA presentation, and get going on the remaining elements of the Project.
+2. Lab 4 is due to Canvas at **8 AM** on Thursday 2025-03-20.
+3. Our next class, Class 9, will be our first **in-person** class. We will start at **9:05 AM** and run until 11:15 AM in Wolstein Research Building, room 1217. Parking is *always* an issue near the CWRU Campus. Leave time to get to class by 9, if at all possible.
+    - Classes 9-11 will not be broadcast on Zoom. I will try to record them.
+    - Classes 12-14 will neither be broadcast nor recorded, since that causes problems with project presentations. Sorry.
+4. At Class 9, our main activity will be the first few OSIA presentations. We will also discuss Lab 4, Rosenbaum through Chapter 8, and perhaps look at [Elbadawi (2021)](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf) and this [Supplement](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf).
+
