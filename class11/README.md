@@ -11,6 +11,8 @@ Class | Date | Slides (pdf) | Code (.qmd) | Recording
 1. Observational Studies in Action - schedule **to come**
 2. Some Key Takeaways from Lehr et al. (2020) [The impact of change in definition of increased-risk donors on survival after lung transplant](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Lehr_2019_extra.pdf) *J Thorac Cardiovasc Surg* 160(2): P572-581. ([full text](https://www.jtcvs.org/article/S0022-5223(19)33064-8/fulltext)) DOI:10.1016/j.jtcvs.2019.10.154
 3. Questions and Answers about the Project
+4. (if time permits) Some thoughts on "Dealing with Time-Varying Covariates"
+5. (if time permits) Augmenting Sensitivity Analysis
 
 ## Reminders for Next Week
 
