@@ -30,7 +30,7 @@ The agenda for the recording:
 Agenda for today's Zoom session:
 
 - Presentations (2-3 minutes each) of your Project Proposals, draft 2
-- Announcing the OSIA plans (scheduling and second reader)
+- Announcing the [OSIA plans](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia) (scheduling and second reader)
 - (if time allows) D'Agostino Jr. (1998) [Propensity Score Methods for Bias Reduction in the Comparison of a Treatment to a Non-Randomized Control Group](https://github.com/THOMASELOVE/500-sources/blob/main/articles/D'Agostino%201998%20SIM%20Tutorial%20on%20Propensity%20Scores.pdf) *Statistics in Medicine*
 
 ## Announcements
@@ -43,7 +43,7 @@ Agenda for today's Zoom session:
     - The pre-recorded lecture for Class 8 is about 28 minutes long. The link is available in the usual space.
 4. Remember that while we do have class next Thursday, we do not have class on the following Thursday 2025-03-13, due to Spring Break.
     - I will be away and not responding to email from 2025-03-07 through 2025-03-14.
-    - Spring Break is an excellent time to work on your OSIA presentation, and get going on the remaining elements of the Project.
+    - Spring Break is an excellent time to work on your [OSIA presentation](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia), and get going on the remaining elements of the Project.
 
 ## Sensitivity Spreadsheet Information is in our Shared Drive
 
