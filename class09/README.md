@@ -18,6 +18,19 @@ Class | Date | Slides (pdf) | Code (.qmd) | Recording
 
 > Replication is central to science, but it is easy to use the same procedures to repeat the same mistakes. A series of observational studies may reach firmer conclusions than any one study in that series, providing successive studies are liable to different mistakes, not to repeating the same one. Evidence factors seek such replication within a single study through carefully varied comparisons.
 
+## References in Today's Slides (after Rosenbaum discussion)
+
+- [Replication and Replicability in Science](https://www.ncbi.nlm.nih.gov/books/NBK547524/) from the National Academies of Sciences, Engineering, and Medicine.
+- Nosek B and Errington TM [What is replication?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7100931/)
+- Moreau D and Wiebels K [Ten simple rules for designing and conducting undergraduate replication projects](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10019630/)
+- Royal Society Open Science [Replication Studies: Guidance for Authors and for Referees and Reviewers](https://royalsocietypublishing.org/rsos/replication-studies)
+- Wikipedia on the [Replication Crisis](https://en.wikipedia.org/wiki/Replication_crisis)
+- Ioannidis JPA 2005 [Why Most Published Research Findings are False](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/)
+- Peng RD and Hicks SC 2021 [Reproducible Research: A Retrospective](https://www.annualreviews.org/doi/abs/10.1146/annurev-publhealth-012420-105110) *Annual Review of Public Health*
+- Wikipedia on [Bayes factor](https://en.wikipedia.org/wiki/Bayes_factor)
+- The [BayesFactor package](https://cran.r-project.org/web/packages/BayesFactor/vignettes/manual.html) in R
+- Stefan et al. 2019  [A tutorial on Bayes Factor Design Analysis using an informed prior](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6538819), doi: 10.3758/s13428-018-01189-8
+
 ## Reminders for Next Week
 
 1. The [Project Update](https://thomaselove.github.io/500-2025/proj500.html#the-project-update) is due to Canvas at 9 AM on Wednesday 2025-03-26.
