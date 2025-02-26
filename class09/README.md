@@ -9,10 +9,19 @@ Class | Date | Slides (pdf) | Code (.qmd) | Recording
 ## Today's Agenda
 
 1. Introduction (first class in person)
-2. Observational Studies in Action - schedule **to come**
+2. Observational Studies in Action - schedule below and [here](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia)
 3. Discussion of Lab 4 - the sketch for Lab 4 will be posted to our Shared Drive **by class time**
 4. Discussion of Rosenbaum **Causal Inference** through Chapter 8 (Replication, Resolution and Evidence Factors)
 5. Some Key Takeaways from Elbadawi 2021 [Contemporary Revascularization Strategies and Outcomes Among Patients With Diabetes With Critical Limb Ischemia](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf) with [Supplement](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf): Insights from the National Inpatient Sample. *JACC: Cardiovascular Interventions*, 14(6): 664-74. doi:10.1016/j.jcin.2020.11.032
+
+## OSIA Presentations to be given in Class 9 (2025-03-20)
+
+First Reader | Second Reader | Paper
+:---------------------: | :------------: |  :----------------------------------------------------------------------------------------------------
+Katie Hassett | JiaWei Yu | Beauchat et al. 2025 [Association of early general anesthesia with outcome in adults with status epilepticus: A propensity-matched observational study](pdfs/Beauchat_2025.pdf) *Epilepsia* 66:e7–e13. doi:10.1111/epi.18203
+Ajay Mahenthiran | Tatchaporn Ongphichetmetha | Zheng et al. 2024 [The impact of statin use on short-term and long-term mortality in patients with heart failure](pdfs/Zheng_2024.pdf) with [Supplement](pdfs/Zheng_2024_supplement.pdf) *Frontiers in Pharmacology* 15: 1397763. doi:10.3389/fphar.2024.1397763
+Trisha Lal | Sarah Albalawi | Mackay et al. 2022 [The impact of cancer treatment on quality of life in patients with pancreatic and periampullary cancer: a propensity score matched analysis](pdfs/Mackay_2022.pdf) with [Supplement](pdfs/Mackay_2022_supplement.pdf) *HPB* 24: 443–451. doi:10.1016/j.hpb.2021.09.003
+Dana Jian | Logan Harper | Zhang et al. 2025 [Sedentary Behavior and Its Association With Psychological Well-Being and Sleep Quality in Adolescents: Evidence from a Propensity Score Analysis](pdfs/Zhang_2025.pdf) with [Supplement](pdfs/Zhang_2025_supplement.pdf) *Psychology Research and Behavior Management* 18: 281-298, doi:10.2147/PRBM.S508382 
 
 ## Key Ideas from Rosenbaum, Chapter 8 (from postscript)
 
@@ -34,6 +43,6 @@ Class | Date | Slides (pdf) | Code (.qmd) | Recording
 ## Reminders for Next Week
 
 1. The [Project Update](https://thomaselove.github.io/500-2025/proj500.html#the-project-update) is due to Canvas at 9 AM on Wednesday 2025-03-26.
-2. Next week, we will continue Observational Studies in Action - schedule **to come**.
+2. Next week, we will continue Observational Studies in Action - the schedule for Class 10 includes first readers Olivia, Tatchaporn and Kelly, and second readers Anika, Katie and Dana.
 3. For next week, complete reading Rosenbaum **Causal Inference** through Chapter 9 (Uncertainty and Complexity in Causal Inference)
 4. Skim Posner et al. 2001 [Comparing Standard Regression, Propensity Score Matching, and Instrumental Variables Methods for Determining the Influence of Mammography on Stage of Diagnosis](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Posner%20et%20al%202001%20Comparing%20Methods%20in%20a%20Mammography%20Study.pdf) *Health Services & Outcomes Research Methodology*, 2: 279-290. doi:10.1023/A:1020323429121
