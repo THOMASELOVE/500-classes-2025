@@ -9,7 +9,7 @@ Class | Date | Slides (pdf) | Code (.qmd) | Recording
 ## Today's Agenda
 
 1. Introduction (first class in person)
-2. Observational Studies in Action - schedule below and [here](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia)
+2. Observational Studies in Action - schedule below and [here](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia).
 3. Discussion of Lab 4 - the sketch for Lab 4 will be posted to our Shared Drive **by class time**
 4. Discussion of Rosenbaum **Causal Inference** through Chapter 8 (Replication, Resolution and Evidence Factors)
 5. Some Key Takeaways from Elbadawi 2021 [Contemporary Revascularization Strategies and Outcomes Among Patients With Diabetes With Critical Limb Ischemia](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf) with [Supplement](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf): Insights from the National Inpatient Sample. *JACC: Cardiovascular Interventions*, 14(6): 664-74. doi:10.1016/j.jcin.2020.11.032
