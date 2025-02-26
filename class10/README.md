@@ -9,7 +9,7 @@ Class | Date | Slides (pdf) | Code (.qmd) | Recording
 ## Today's Agenda
 
 1. Comments from Dr. Love on the [Project Update](https://thomaselove.github.io/500-2025/proj500.html#the-project-update)
-2. Observational Studies in Action - schedule **to come**
+2. Observational Studies in Action - schedule below and [here](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia).
 3. Discussion of Rosenbaum **Causal Inference** through Chapter 9 (Uncertainty and Complexity in Causal Inference)
 4. Some Key Takeaways from Posner et al. 2001 [Comparing Standard Regression, Propensity Score Matching, and Instrumental Variables Methods for Determining the Influence of Mammography on Stage of Diagnosis](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Posner%20et%20al%202001%20Comparing%20Methods%20in%20a%20Mammography%20Study.pdf) *Health Services & Outcomes Research Methodology*, 2: 279-290. doi:10.1023/A:1020323429121
 
