@@ -11,3 +11,7 @@ Class | Date | Slides (pdf) | Code (.qmd)
 1. Today, we will have our third and final set of project presentations.
 2. Dr. Love will then share a few slides to wrap up the course.
 
+## Reminders
+
+- Final Project Submissions are due to [Canvas](https://canvas.case.edu/) at **9 AM on Monday 2025-04-28** from everyone regardless of when you give your project presentation.
+- When prompted via email by the University (usually in late April), please visit <https://webapps.case.edu/courseevals/> and complete the course evaluations before they close.
