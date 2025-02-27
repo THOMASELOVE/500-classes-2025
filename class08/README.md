@@ -29,6 +29,8 @@ The agenda for the recording:
 Agenda for today's Zoom session:
 
 - Lab 3 discussion
+- Presentations (2-3 minutes each) of the remaining Project Proposals, draft 2
+    - The proposals and slides are [linked here](https://thomaselove.github.io/500-proj-draft2-slides/).
 - Announcing the Project Presentation Schedule
 - Tanenbaum (2017) [Propensity Matched Analysis of Outcomes and Hospital Charges for Anterior versus Posterior Cervical Fusion for Cervical
 Spondylotic Myelopathy](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Tanenbaum_2017_extra.pdf)
