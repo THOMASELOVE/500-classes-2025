@@ -17,6 +17,7 @@ Class | Date | Slides (pdf) | Code (.qmd) | Recording
     - It also shows how you might think about looking at multiple outcomes, and does two separate PS analyses to compare 1 vs, 2 and 3 and then 2 vs. 3 when there are three exposures of interest.
     - Some interest also in thinking about tradeoffs between mortality and length of stay as outcomes, and it uses the National Inpatient Sample.
     - But there's also some unexplained stuff - like why no insurance data, and why the matched samples aren't the same size, without specifying why this is the case (one assumes they are matching with replacement, but it's not specified).
+    - Thanks to recent student Sameer Prasada for drawing my attention to this paper.
 
 ## OSIA Presentations to be given in Class 9 (2025-03-20)
 
