@@ -13,6 +13,10 @@ Class | Date | Slides (pdf) | Code (.qmd) | Recording
 3. Discussion of Lab 4 - the sketch for Lab 4 will be posted to our Shared Drive **by class time**
 4. Discussion of Rosenbaum **Causal Inference** through Chapter 8 (Replication, Resolution and Evidence Factors)
 5. Some Key Takeaways from Elbadawi 2021 [Contemporary Revascularization Strategies and Outcomes Among Patients With Diabetes With Critical Limb Ischemia](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf) with [Supplement](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf): Insights from the National Inpatient Sample. *JACC: Cardiovascular Interventions*, 14(6): 664-74. doi:10.1016/j.jcin.2020.11.032
+    - I'm sharing this paper because it's claims data, it's done in R, and it has actual Love plots in the supplement!
+    - It also shows how you might think about looking at multiple outcomes, and does two separate PS analyses to compare 1 vs, 2 and 3 and then 2 vs. 3 when there are three exposures of interest.
+    - Some interest also in thinking about tradeoffs between mortality and length of stay as outcomes, and it uses the National Inpatient Sample.
+    - But there's also some unexplained stuff - like why no insurance data, and why the matched samples aren't the same size, without specifying why this is the case (one assumes they are matching with replacement, but it's not specified).
 
 ## OSIA Presentations to be given in Class 9 (2025-03-20)
 
