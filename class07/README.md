@@ -32,7 +32,7 @@ Agenda for today's Zoom session:
 - Presentations (2-3 minutes each) of your Project Proposals, draft 2
     - The proposals and slides are [linked here](https://thomaselove.github.io/500-proj-draft2-slides/).
 - Announcing the [OSIA plans](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia) (scheduling and second reader)
-- (if time allows) D'Agostino Jr. (1998) [Propensity Score Methods for Bias Reduction in the Comparison of a Treatment to a Non-Randomized Control Group](https://github.com/THOMASELOVE/500-sources/blob/main/articles/D'Agostino%201998%20SIM%20Tutorial%20on%20Propensity%20Scores.pdf) *Statistics in Medicine*
+- D'Agostino Jr. (1998) [Propensity Score Methods for Bias Reduction in the Comparison of a Treatment to a Non-Randomized Control Group](https://github.com/THOMASELOVE/500-sources/blob/main/articles/D'Agostino%201998%20SIM%20Tutorial%20on%20Propensity%20Scores.pdf) *Statistics in Medicine*
 
 ## Announcements
 
