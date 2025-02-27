@@ -19,7 +19,7 @@ Class 7 is divided into two parts.
 
 The agenda for the recording:
 
-- Right Heart Catherization and the SUPPORT Study
+- Right Heart Catheterization and the SUPPORT Study
     - including thoughts on [the RHC Example](https://thomaselove.github.io/500-examples/)
     - Connors 1996 [The Effectiveness of Right Heart Catheterization in the Initial Care of Critically Ill Patients](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Connors%20et%20al%201996%20JAMA%20The%20Right%20Heart%20Catheterization%20Study.pdf) JAMA.
 - Sensitivity Analysis for Matched Samples
