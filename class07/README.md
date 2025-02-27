@@ -50,3 +50,7 @@ Agenda for today's Zoom session:
 
 - The Excel sheet (developed in 2008) is available in our Shared Drive in the Sensitivity Analysis Spreadsheet (for Class 7) folder.
 - The PDF description of what the spreadsheet does (with examples) is also in our Shared Drive in the Sensitivity Analysis Spreadsheet (for Class 7) folder.
+
+## What is a Mahalanobis distance?
+
+Essentially, you can think about it as a way of expanding the idea of a standardized mean difference out to multiple variables simultaneously. More specifically, it is a multivariate generalization of the square of the standard score z = (x - mean)/sd: in essence, how many standard deviations away a point is from the mean of another distribution. R implements Mahalanobis distance with the `mahalanobis()` function.
