@@ -43,6 +43,7 @@ Spondylotic Myelopathy](https://github.com/THOMASELOVE/500-sources/blob/main/art
     - Spring Break is an excellent time to work on your OSIA presentation, and get going on the remaining elements of the Project.
 2. Lab 4 is due to Canvas at **8 AM** on Thursday 2025-03-20.
 3. Our next class, Class 9, will be our first **in-person** class. We will start at **9:05 AM** and run until 11:15 AM in Wolstein Research Building, room 1217. Parking is *always* an issue near the CWRU Campus. Leave time to get to class by 9, if at all possible.
+    - For directions and parking information, [visit this link](https://case.edu/medicine/cbhi/about-us/directions-and-parking/cwru-school-medicine-health-sciences-campus).
     - Classes 9-11 will not be broadcast on Zoom. I will try to record them.
     - Classes 12-14 will neither be broadcast nor recorded, since that causes problems with project presentations. Sorry.
 4. At Class 9, our main activity will be the [first few OSIA presentations](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia). We will also discuss Lab 4, Rosenbaum through Chapter 8, and perhaps look at [Elbadawi (2021)](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf) and this [Supplement for Elbadawi 2021](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf).
