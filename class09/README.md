@@ -18,6 +18,7 @@ Class | Date | Slides (pdf) | Code (.qmd) | Recording
     - The paper helps us to think about tradeoffs between mortality and length of stay as outcomes, and it uses the National Inpatient Sample, which is worth knowing something about.
     - But there's also some unexplained stuff - like why no insurance data, and why the matched samples aren't the same size, without specifying why this is the case (one assumes they are matching with replacement, but it's not specified).
     - Thanks to recent student Sameer Prasada for drawing my attention to this paper.
+6. The latest version of RStudio (ver 2024.12.1+563) is [available now](https://posit.co/download/rstudio-desktop/) and should be safe for you to download and use. The latest version of R, version 4.4.3, is [also now available](https://cran.case.edu/). I encouraged you to upgrade to these over Spring Break, but if you haven't gotten to it yet, now is the time. Either version 4.4.2 or 4.4.3 of R is OK for 500 work for the rest of this semester.
 
 ## OSIA Presentations to be given in Class 9 (2025-03-20)
 
