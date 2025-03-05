@@ -25,5 +25,7 @@ Logan Harper | Kelly Bowen | Hadi et al. 2021 [Outcomes of SARS-CoV-2 infection 
 
 ## Reminders for Next Week
 
-1. Next week, in class 12, we will have our first set of project presentations.
+1. Next week, in class 12, we will have our first set of **project presentations**. The session will begin at 9 AM and last until 11:15 AM.
+    - The people presenting their project in Class 12 are Ajay, JiaWei, Logan and Catherine.
+    - The [Course Calendar](https://thomaselove.github.io/500-2025/calendar.html) has the complete schedule for all project presentations.
     - The remaining three class sessions (classes 12-14) will **not** be recorded and will not be streamed online.
