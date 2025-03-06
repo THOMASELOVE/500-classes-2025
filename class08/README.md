@@ -12,6 +12,7 @@ Class 8 is divided into two parts.
 - Zoom information has been sent (via email to your CWRU account) to all registered students, and is also available on [Canvas](https://canvas.case.edu).
 - Slides for this Zoom meeting are [available in PDF](https://github.com/THOMASELOVE/500-slides-2025/blob/main/500_slides08z.pdf) and [as Quarto (.qmd) code](https://github.com/THOMASELOVE/500-slides-2025/blob/main/500_slides08z.qmd).
 - A link to the recording will be posted [to Canvas](https://canvas.case.edu/) within 24 hours of the meeting.
+- The reference I put in the chat was <https://matheusfacure.github.io/python-causality-handbook/16-Regression-Discontinuity-Design.html>.
 
 ----
 
