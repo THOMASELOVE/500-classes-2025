@@ -33,4 +33,4 @@ Tatchaporn Ongphichetmetha | Katie Hassett | Prosperini et al. 2018 [Fingolimod 
     - Ajay and Tatchaporn, please record your slide presentation for next time and send it along so that people can see it.
     - Sarah's second reader presentation is already posted to our Shared Drive for last time.
 2. For next week, skim Lehr et al. (2020) [The impact of change in definition of increased-risk donors on survival after lung transplant](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Lehr_2019_extra.pdf) *J Thorac Cardiovasc Surg* 160(2): P572-581. ([full text](https://www.jtcvs.org/article/S0022-5223(19)33064-8/fulltext)) DOI:10.1016/j.jtcvs.2019.10.154
-3. Next week will also be our final opportunity to ask and answer questions about the Project before our presentations begin in Classes 12-14. 
+3. Next week will also be our final opportunity to ask and answer in-class questions about the Project before our presentations begin in Classes 12-14. 
