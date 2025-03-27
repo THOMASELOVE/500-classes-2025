@@ -67,7 +67,8 @@
 ## Kelly Bowen "Effect of Metformin on Liver Health in a Sample of Patients with Diabetes"
 
 - Data in R
-- No major current problems. I encourage single imputation of predictors included in the PS, rather than complete case analysis.
+- No major current problems.
+    1. I encourage single imputation of predictors included in the PS, rather than complete case analysis.
 
 ## Ajay Mahenthiran "Limited Choices, Higher Risks: How Food Access Shapes Diabetes Prevalence"
 
