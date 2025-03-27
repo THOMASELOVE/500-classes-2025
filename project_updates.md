@@ -4,7 +4,9 @@
 
 1. The final project document (not the slides), including all elements, should be written in Quarto and submitted as HTML. Do not send me Word or PDF files for the final version. And don't send me anything with tracked changes, please.
 2. The slides for your project presentation can be in PDF, Powerpoint or Google Slides.
-3. You should be defaulting to doing single imputation on missing data in the predictors of the propensity model (assuming MAR), after restricting to complete cases for the outcome and exposure (assuming MCAR). Using the terms (Missing At Random and Missing Completely At Random) helps. If you want to use multiple imputation, save it for the outcome model, rather than the propensity model, for this Project.
+3. If you learn nothing else from this course in general and this project in particular, please learn that statistical significance is not in any way a useful concept, and you shouldn't be using it for any purpose *other* than deciding whether or not to include a Rosenbaum sensitivity analysis after your propensity-matched result.
+4. You should be defaulting to doing single imputation on missing data in the predictors of the propensity model (assuming MAR), after restricting to complete cases for the outcome and exposure (assuming MCAR). Using the terms (Missing At Random and Missing Completely At Random) helps. If you want to use multiple imputation, save it for the outcome model, rather than the propensity model, for this Project.
+5. The warning `glm.fit: fitted probabilities numerically 0 or 1 occurred` is a clear indication that you have a problem that must be fixed. Usually this is a sign that you have some categories (or combinations of categories) in which all subjects are in one of your two exposure groups. Collapse such categories profoundly will be my first piece of advice.
 
 ## Anika Krishna "Framing Mental Illness: Racial Disparities in Police Killings"
 
@@ -25,7 +27,7 @@
 - Several minor concerns.
     1. If you're matching with replacement, I *might* worry about it if a single case was used 10 or more times. Otherwise, I wouldn't worry.
     2. Steroid duration isn't a variable you can use in a model where steroids is the exposure. If they're both potential predictors, pick one or the other.
-    3. Significance is absolutely not what you should be focusing on, in any scenario at all, except for deciding whether a Rosenbaum sensitivity analysis is needed in addition to a stability analysis. The best thing you could do about statistical significance is never, ever think about it or use it again, in any setting. If you learn nothing else from this course in general and this project in particular, please learn that statistical significance is not in any way a useful concept, and you shouldn't be using it for any purpose.
+    3. Significance is absolutely not what you should be focusing on, in any scenario at all, except for deciding whether a Rosenbaum sensitivity analysis is needed in addition to a stability analysis. The best thing you could do about statistical significance is never, ever think about it or use it again, in any setting. 
     4. What about outlying values in predictors?
     5. ATT Weighting is no different than matching when it comes to comparing outcomes. Estimates from weighting work in the same way as estimates from matching.
 
