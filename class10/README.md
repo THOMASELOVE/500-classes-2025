@@ -8,8 +8,8 @@ Class | Date | Slides (pdf) | Code (.qmd) | Recording
 
 ## Today's Agenda
 
-1. Comments from Dr. Love on the [Project Update](https://thomaselove.github.io/500-2025/proj500.html#the-project-update)
-2. Observational Studies in Action - schedule below and [here](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia).
+1. Observational Studies in Action - schedule below and [here](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia).
+2. [Comments from Dr. Love are available here](https://github.com/THOMASELOVE/500-classes-2025/blob/main/project_updates.md) on the [Project Update](https://thomaselove.github.io/500-2025/proj500.html#the-project-update).
 3. Discussion of Rosenbaum **Causal Inference** through Chapter 9 (Uncertainty and Complexity in Causal Inference)
 4. Some Key Takeaways from Posner et al. 2001 [Comparing Standard Regression, Propensity Score Matching, and Instrumental Variables Methods for Determining the Influence of Mammography on Stage of Diagnosis](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Posner%20et%20al%202001%20Comparing%20Methods%20in%20a%20Mammography%20Study.pdf) *Health Services & Outcomes Research Methodology*, 2: 279-290. doi:10.1023/A:1020323429121
 
@@ -30,5 +30,7 @@ Tatchaporn Ongphichetmetha | Katie Hassett | Prosperini et al. 2018 [Fingolimod 
 1. The OSIA schedule for Class 11 includes Sarah, Anika, JiaWei and Logan as first readers, then Ajay, Trisha, Olivia and Kelly as second readers.
     - First readers (Sarah, Anika, JiaWei and Logan): Submit final versions of the slides for your class presentation (18 slides should be a reasonable maximum) to our Shared Google Drive **by 1 PM** on the day before your presentation, so **Wednesday 2025-04-02**. The file name should include your name. The folder you want in our Shared Drive is called **OSIA Slides for First and Second Readers on 2025-04-03 (Class 11)**.
     - Second readers (Ajay, Trisha, Olivia and Kelly): Submit final versions of your 2-4 slides for your presentation to our Shared Google Drive **by 7:30 AM** on the day of your presentation, so **Thursday 2025-04-03**. Be sure the file name includes your name. We expect you to have reviewed the slides prepared by the First Reader (posted the day before) in preparing your materials. The folder you want in our Shared Drive is called **OSIA Slides for First and Second Readers on 2025-04-03 (Class 11)**.
+    - Ajay and Tatchaporn, please record your slide presentation for next time and send it along so that people can see it.
+    - Sarah's second reader presentation is already posted to our Shared Drive for last time.
 2. For next week, skim Lehr et al. (2020) [The impact of change in definition of increased-risk donors on survival after lung transplant](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Lehr_2019_extra.pdf) *J Thorac Cardiovasc Surg* 160(2): P572-581. ([full text](https://www.jtcvs.org/article/S0022-5223(19)33064-8/fulltext)) DOI:10.1016/j.jtcvs.2019.10.154
 3. Next week will also be our final opportunity to ask and answer questions about the Project before our presentations begin in Classes 12-14. 
