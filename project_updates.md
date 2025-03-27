@@ -1,4 +1,4 @@
-# Comments on Project Updates, due 2025-03-26 (in an arbitrary order)
+# Comments on Project Updates, due 2025-03-26 
 
 ## Notes to everyone
 
