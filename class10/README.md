@@ -18,8 +18,8 @@ Class | Date | Slides (pdf) | Code (.qmd) | Recording
 First Reader | Second Reader | Paper
 :---------------------: | :------------: |  :----------------------------------------------------------------------------------------------------
 Olivia Lindberg | Anika Krishna | Chen and Mallory 2021 [The effect of racial discrimination on mental and physical health: A propensity score weighting approach](pdfs/Chen_and_Mallory_2021.pdf) *Social Science & Medicine* 285: 114308. doi:10.1016/j.socscimed.2021.114308
-Tatchaporn Ongphichetmetha | Katie Hassett | Prosperini et al. 2018 [Fingolimod vs dimethyl fumarate in multiple sclerosis: A real-world propensity score-matched study](pdfs/Prosperini_2018.pdf) *Neurology* 91:e153-e161. doi:10.1212/WNL.0000000000005772
 Kelly Bowen | Dana Jian | MacDonald et al. 2022 [Use of the Molecular Adsorbent Recirculating System in Acute Liver Failure: Results of a Multicenter Propensity Score-Matched Study](pdfs/MacDonald_2022.pdf) with [Supplement](pdfs/MacDonald_2022_supplement.pdf) *Crit Care Med* 50(2):286–95. doi: 10.1097/CCM.0000000000005194
+Tatchaporn Ongphichetmetha | Katie Hassett | Prosperini et al. 2018 [Fingolimod vs dimethyl fumarate in multiple sclerosis: A real-world propensity score-matched study](pdfs/Prosperini_2018.pdf) *Neurology* 91:e153-e161. doi:10.1212/WNL.0000000000005772
 
 ## Key Ideas from Rosenbaum, Chapter 9 (from postscript)
 
