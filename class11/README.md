@@ -11,8 +11,9 @@ Class | Date | Slides (pdf) | Code (.qmd) | Recording
 1. Observational Studies in Action - schedule below and [here](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia).
 2. Some Key Takeaways from Lehr et al. (2020) [The impact of change in definition of increased-risk donors on survival after lung transplant](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Lehr_2019_extra.pdf) *J Thorac Cardiovasc Surg* 160(2): P572-581. ([full text](https://www.jtcvs.org/article/S0022-5223(19)33064-8/fulltext)) DOI:10.1016/j.jtcvs.2019.10.154
 3. Questions and Answers about the Project
-4. (if time permits) Some thoughts on "Dealing with Time-Varying Covariates"
-5. (if time permits) Augmenting Sensitivity Analysis
+4. **On Assuming MCAR** Little's `mcar_test()` can be used to help build up some understanding as to whether we'll see a meaningful difference if we assume MCAR (and use complete cases) vs. MAR (with imputation.) If the test shows a low *p* value, this is a firm indication that the MCAR assumption isn't reasonable. On the other hand, if the `mcar_test()` result shows a large *p* value, that doesn't mean the data are MAR, specifically. They still could certainly be missing not at random (MNAR), but for this project, I would assume MAR for predictors in your propensity model, after pruning to complete cases for outcome and exposure variables.
+5. (if time permits) Some thoughts on "Dealing with Time-Varying Covariates"
+6. (if time permits) Augmenting Sensitivity Analysis
 
 ## OSIA Presentations to be given in Class 11 (2025-04-03)
 
