@@ -17,5 +17,5 @@ Class 13 will be devoted to the second set of Project Presentations. The speaker
 ## Reminders
 
 - Final Project Submissions are due to [Canvas](https://canvas.case.edu/) at **9 AM on Monday 2025-04-28** from everyone regardless of when you give your project presentation.
-- Projects to be given in Class 14 (2025-04-24: our last session) are those by Sarah, Dana and Kelly.
+- Projects to be given in Class 14 (2025-04-24: our last session) are those by Sarah, Dana and Kelly. The three of you need to submit your Project Abstract and Slides by **noon on Wednesday 2025-04-23** to our Shared Google Drive. Look for the folder called **Project Abstracts and Slides for Class 14 (2025-04-24)** on our Shared Drive. Within that folder, you should find a subfolder with your name - place your slides and abstract there. If you have any last-second slide changes, then you can submit those to the same place by 8 AM Thursday, and I'll make sure those are the ones on screen in the room.
 - When prompted via email by the University (usually in late April), please visit <https://webapps.case.edu/courseevals/> and complete the course evaluations before they close.
