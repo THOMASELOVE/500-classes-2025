@@ -16,7 +16,12 @@ Class 12 will be devoted to the first set of Project Presentations. The speakers
 
 ## Evaluation Form
 
-The evaluation form for today's presentations will be found at <https://bit.ly/500-projects-class-12>. It's a Google Form, and you must be logged into Google via your CWRU account. Please open the form and use it to provide comments on each of the presentations. You may skip your own presentation, and (if you're JiaWei, Logan or Catherine) you can also opt to skip the presentation immediately before yours. Please remember to hit submit at the end of the form (after all four presentations) before you leave this room. Thank you!
+The evaluation form for today's presentations will be found at <https://bit.ly/500-projects-class-12>. 
+
+- It's a Google Form, and you must be logged into Google via your CWRU account.
+- Please open the form and use it to provide comments on each of the presentations.
+- You may skip your own presentation, and (if you're JiaWei, Logan or Catherine) you can also opt to skip the presentation immediately before yours.
+- Please remember to hit submit at the end of the form (after all four presentations) before you leave this room. Thank you!
 
 ## Reminders
 
