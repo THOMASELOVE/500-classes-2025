@@ -14,6 +14,8 @@ Class 12 will be devoted to the first set of Project Presentations. The speakers
 3. Logan Harper "Steroid use and development of diabetes and weight change in a prospective international survey" [Abstract](pdf/Logan_Abstract.pdf)
 4. Catherine Hassett "Impact of Antihypertensive Therapy on Hematoma Expansion in Acute Intracerebral Hemorrhage" [Abstract](pdf/Catherine_Abstract.pdf)
 
+Slides for these presentations are posted to our Shared Drive.
+
 ## Evaluation Form
 
 The evaluation form for today's presentations will be found at <https://bit.ly/500-projects-class-12>. 
