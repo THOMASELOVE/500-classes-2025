@@ -26,6 +26,7 @@ The evaluation form for today's presentations will be found at <https://bit.ly/5
 ## Reminders
 
 - Final Project Submissions are due to [Canvas](https://canvas.case.edu/) at **9 AM on Monday 2025-04-28** from everyone regardless of when you give your project presentation.
+- Here is a list of [CWRU mental health resources available to students](https://case.edu/wellness/campuswide-resources/mental-health-resources). 
 - Projects to be given in Class 13 (2025-04-17) are those by Trisha, Tatchaporn, Anika and Olivia.
     - The four of you need to submit your Project Abstract and Slides by noon on Wednesday 2025-04-16 to our Shared Google Drive. Look for the folder called **Project Abstracts and Slides for Class 13 (2025-04-17)** on our Shared Drive. Within that folder, you should find a subfolder with your name - place your slides and abstract there.
     - If you have any last-second slide changes, then you can submit those to the same place by 8 AM Thursday, and I'll make sure those are the ones on screen in the room.
