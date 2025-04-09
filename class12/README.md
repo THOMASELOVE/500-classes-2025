@@ -14,6 +14,10 @@ Class 12 will be devoted to the first set of Project Presentations. The speakers
 3. Logan Harper "[Glucocorticoid toxicity in a prospective international survey of sarcoidosis patients](https://thomaselove.github.io/500-proj-draft2-slides/slides/logan_draft2.html)"
 4. Catherine Hassett "[Impact of Antihypertensive Therapy on Hematoma Expansion in Intracerebral Hemorrhage](https://thomaselove.github.io/500-proj-draft2-slides/slides/katie_draft2.html)"
 
+## Evaluation Form
+
+The evaluation form for today's presentations will be found at <https://bit.ly/500-projects-class-12>. It's a Google Form, and you must be logged into Google via your CWRU account. Please open the form and use it to provide comments on each of the presentations. You may skip your own presentation, and (if you're JiaWei, Logan or Catherine) you can also opt to skip the presentation immediately before yours. Please remember to hit submit at the end of the form (after all four presentations) before you leave this room. Thank you!
+
 ## Reminders
 
 - Final Project Submissions are due to [Canvas](https://canvas.case.edu/) at **9 AM on Monday 2025-04-28** from everyone regardless of when you give your project presentation.
