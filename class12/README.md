@@ -9,8 +9,8 @@ Class 12 will be given **in person** in room 1217 in the Wolstein Research Build
 
 Class 12 will be devoted to the first set of Project Presentations. The speakers during Class 12 will be (in this order):
 
-1. Ajay Mahenthiran "Limited Choices, Higher Risks: How Food Access Shapes Diabetes Prevalence" [Abstract](pdf/ajay_abstract.pdf)
-2. JiaWei Yu "[The Impact of Time Lived in the United States on Adult Food Security](https://thomaselove.github.io/500-proj-draft2-slides/slides/jiawei_draft2.html)"
+1. Ajay Mahenthiran "Limited Choices, Higher Risks: How Food Access Shapes Diabetes Prevalence" [Abstract](pdf/Ajay_Abstract.pdf)
+2. JiaWei Yu "The Impact of Time Lived in the United States on Adult Food Security" [Abstract](pdf/JiaWei_Abstract.pdf)
 3. Logan Harper "[Glucocorticoid toxicity in a prospective international survey of sarcoidosis patients](https://thomaselove.github.io/500-proj-draft2-slides/slides/logan_draft2.html)"
 4. Catherine Hassett "[Impact of Antihypertensive Therapy on Hematoma Expansion in Intracerebral Hemorrhage](https://thomaselove.github.io/500-proj-draft2-slides/slides/katie_draft2.html)"
 
