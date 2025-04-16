@@ -22,6 +22,10 @@ The evaluation form for today's presentations will be found at <https://bit.ly/5
 - You may skip your own presentation, and (if you're Tatchaporn, Anika or Olivia) you can also opt to skip the presentation immediately before yours.
 - Please remember to hit submit at the end of the form (after all four presentations) before you leave this room. Thank you!
 
+## Dr. Love Slides
+
+Because we'll only have three presentations today, I intend to also share the [Slides originally planned for Class 14](https://github.com/THOMASELOVE/500-slides-2025/blob/main/500_slides14.pdf).
+
 ## Reminders
 
 - Final Project Submissions are due to [Canvas](https://canvas.case.edu/) at **9 AM on Monday 2025-04-28** from everyone regardless of when you give your project presentation.
