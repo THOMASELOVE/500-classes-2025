@@ -14,6 +14,16 @@ Class 13 will be devoted to the second set of Project Presentations. The speaker
 3. Anika Krishna "Framing Mental Illness: Racial Disparities in Police Killings"
 4. Olivia Lindberg "Parental Attitudes and Young Adult Alcohol Use: Evidence from the Raising Healthy Children Cohort" [Abstract](pdf/Olivia_Abstract.pdf)
 
+## Evaluation Form
+
+The evaluation form for today's presentations will be found at <https://bit.ly/500-projects-class-13>. 
+
+- It's a Google Form, and you must be logged into Google via your CWRU account.
+- Please open the form and use it to provide comments on each of the presentations.
+- You may skip your own presentation, and (if you're Tatchaporn, Anika or Olivia) you can also opt to skip the presentation immediately before yours.
+- Please remember to hit submit at the end of the form (after all four presentations) before you leave this room. Thank you!
+
+
 ## Reminders
 
 - Final Project Submissions are due to [Canvas](https://canvas.case.edu/) at **9 AM on Monday 2025-04-28** from everyone regardless of when you give your project presentation.
