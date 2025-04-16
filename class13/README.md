@@ -11,7 +11,7 @@ Class 13 will be devoted to the second set of Project Presentations. The speaker
 
 1. Trisha Lal "Rural Disparities in Preventable Hospitalizations: An Analysis of Midwestern Counties" [Abstract](pdf/Trisha_Abstract.pdf)
 2. Tatchaporn Ongphichetmetha "Impact of Non-Adherence to Inhaled Corticosteroids on Asthma Control in Adult Patients" [Abstract](pdf/Tatchaporn_Abstract.pdf)
-3. Anika Krishna "Framing Mental Illness: Racial Disparities in Police Killings"
+3. Anika Krishna "Framing Mental Illness: Racial Disparities in Police Killings" [Abstract](pdf/Anika_Abstract.pdf)
 4. Olivia Lindberg "Parental Attitudes and Young Adult Alcohol Use: Evidence from the Raising Healthy Children Cohort" [Abstract](pdf/Olivia_Abstract.pdf)
 
 ## Evaluation Form
