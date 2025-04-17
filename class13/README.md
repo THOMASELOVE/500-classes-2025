@@ -19,7 +19,7 @@ The evaluation form for today's presentations will be found at <https://bit.ly/5
 
 - It's a Google Form, and you must be logged into Google via your CWRU account.
 - Please open the form and use it to provide comments on each of the presentations.
-- You may skip your own presentation, and (if you're Tatchaporn, Anika or Olivia) you can also opt to skip the presentation immediately before yours.
+- You may skip your own presentation, and (if you're Tatchaporn or Olivia) you can also opt to skip the presentation immediately before yours.
 - Please remember to hit submit at the end of the form (after all four presentations) before you leave this room. Thank you!
 
 ## Dr. Love Slides
