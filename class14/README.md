@@ -12,7 +12,7 @@ Class | Date | Slides (pdf) | Code (.qmd)
 2. Dr. Love will then share a few slides to wrap up the course.
 
 - The session will **not** be recorded, nor will it stream online.
-- The session will begin at 9 AM and end at 11:15 AM.
+- The session will begin at 9:05 AM and end at 11:15 AM.
 
 ## Today's Project Presentations
 
