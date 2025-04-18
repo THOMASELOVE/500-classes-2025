@@ -23,6 +23,15 @@ Class 14 will be devoted to the final set of Project Presentations. The speakers
 3. Anika Krishna "Framing Mental Illness: Racial Disparities in Police Killings" [Abstract](pdf/Anika_Abstract.pdf)
 4. Kelly Bowen "Effect of Metformin on Liver Health in a Sample of Patients with Diabetes" [Abstract](pdf/Kelly_Abstract.pdf)
 
+## Evaluation Form
+
+The evaluation form for today's presentations will be found at <https://bit.ly/500-projects-class-14>. 
+
+- It's a Google Form, and you must be logged into Google via your CWRU account.
+- Please open the form and use it to provide comments on each of the presentations.
+- You may skip your own presentation, and (if you're Dana, Anika or Kelly) you can also opt to skip the presentation immediately before yours.
+- Please remember to **hit submit** at the end of the form (after all four presentations) before you leave this room. Thank you!
+
 ## A useful paper to read, as you leave the course and move on to the world...
 
 D'Agostino McGowan, L., Gerke, T., & Barrett, M. (2024). [Causal Inference Is Not Just a Statistics Problem](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2276446?src=recsys) *Journal of Statistics and Data Science Education*, 32(2), 150–155. https://doi.org/10.1080/26939169.2023.2276446
