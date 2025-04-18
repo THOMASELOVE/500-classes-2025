@@ -18,8 +18,8 @@ Class | Date | Slides (pdf) | Code (.qmd)
 
 Class 14 will be devoted to the final set of Project Presentations. The speakers during Class 14 will be (in this order):
 
-1. Sarah Albalawi "Dental Ratio: A Key to Reducing Adult Smoking and Excessive Drinking in US Counties" [Abstract](pdf/Sarah_Abstract.pdf)
-2. Dana Jian "Examining Mental Health Burden Among Foreign and U.S. Born Adults: Nativity Status and Depression Outcomes" [Abstract](pdf/Dana_Abstract.pdf)
+1. Dana Jian "Examining Mental Health Burden Among Foreign and U.S. Born Adults: Nativity Status and Depression Outcomes" [Abstract](pdf/Dana_Abstract.pdf)
+2. Sarah Albalawi "Dental Ratio: A Key to Reducing Adult Smoking and Excessive Drinking in US Counties" [Abstract](pdf/Sarah_Abstract.pdf)
 3. Anika Krishna "Framing Mental Illness: Racial Disparities in Police Killings" [Abstract](pdf/Anika_Abstract.pdf)
 4. Kelly Bowen "Effect of Metformin on Liver Health in a Sample of Patients with Diabetes" [Abstract](pdf/Kelly_Abstract.pdf)
 
