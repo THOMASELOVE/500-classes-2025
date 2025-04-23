@@ -10,6 +10,7 @@ Class | Date | Slides (pdf) | Code (.qmd)
 
 1. Today, we will have our third and final set of project presentations.
 2. Dr. Love will then share a few slides to wrap up the course.
+3. I won't remove anything from the web before June 1. After that, things will disappear.
 
 - The session will **not** be recorded, nor will it stream online.
 - The session will begin at 9:05 AM and end at 11:15 AM.
